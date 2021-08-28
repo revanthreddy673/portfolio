@@ -324,6 +324,11 @@ footer ul li a i {
 }
 
 @media screen and (max-width:500px) {
+
+    nav {
+        padding: 0;
+    }
+
     main h2 {
         font-size: 1.25rem;
     }
