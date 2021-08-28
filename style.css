@@ -322,3 +322,18 @@ footer ul li a i {
     }
 
 }
+
+@media screen and (max-width:500px) {
+    main h2 {
+        font-size: 1.25rem;
+    }
+
+    .content-section h3 {
+        font-size: 1.1rem;
+    }
+
+    .code,
+    .demo {
+        padding: 1em;
+    }
+}
